@@ -1,0 +1,27 @@
+[
+    {
+      "version": "1.0",
+      "name": "Darla Kowalski - SLEDGE",
+      "flesh": 10,
+      "spike": 5,
+      "crunch": 7,
+      "vigour": 150,
+      "fatigue": 100,
+      "parasites": 0,
+      "purity": 0,
+      "discomfort": "0"
+    },
+    {
+      "version": "1.0",
+      "name": "Maeve Sullivan - LIGHT",
+      "flesh": 5,
+      "spike": 6,
+      "crunch": 10,
+      "vigour": 80,
+      "fatigue": 80,
+      "parasites": 0,
+      "purity": 0,
+      "discomfort": "0"
+    }
+  ]
+  
